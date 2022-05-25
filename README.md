@@ -6,8 +6,8 @@ This is a bit faster and a lot more presice comparing to that old method. I reco
 
 ## TODO
 
-- [ ] Loading it on a Raspberry Pi
+- [x] Loading it on a Raspberry Pi
 - [ ] Trying to match it to a security system
-- [ ] Trying with USB Webcam
+- [x] Trying with USB Webcam
 - [ ] Trying with IP Camera
 - [ ] Making it to a PyPi module
